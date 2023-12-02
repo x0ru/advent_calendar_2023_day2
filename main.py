@@ -27,4 +27,5 @@ with open('file.csv', 'r') as file:
         max_green, max_red, max_blue = 0, 0, 0
         print(total)
 
+
     print(total)
